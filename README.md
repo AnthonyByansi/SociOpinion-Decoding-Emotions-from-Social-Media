@@ -1,7 +1,7 @@
 
 # SociOpinion: Decoding Emotions from Social Media
 ## Introduction
-This project aims to decode the emotions or sentiments expressed in social media posts through the use of natural language processing and machine learning techniques. The project is built using Python and various libraries such as pandas, numpy, scikit-learn, and nltk.
+This project aims to decode the emotions or **sentiments expressed** in social media posts through the use of natural language processing and machine learning techniques. The project is built using Python and various libraries such as pandas, numpy, scikit-learn, and nltk.
 
 ## Data
 The data for this project has been collected from Twitter API. The data contains tweets related to various topics such as politics, sports, entertainment, and technology.

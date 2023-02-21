@@ -7,7 +7,7 @@ This project aims to decode the emotions or **sentiments expressed** in social m
 The data for this project has been collected from Twitter API. The data contains tweets related to various topics such as politics, sports, entertainment, and technology.
 
 ## Pre-processing
-The collected data has been pre-processed to remove stop words, special characters, URLs, etc. The pre-processed data has been converted into a numerical representation using the TF-IDF technique.
+The collected data has been pre-processed to remove stop words, special characters, URLs, etc. The pre-processed data has been converted into a numerical representation using the **TF-IDF technique** .
 
 ## Sentiment Analysis
 The pre-processed data has been fed into a machine learning model to perform sentiment analysis. A logistic regression classifier has been used to classify the tweets as positive, negative, or neutral.
